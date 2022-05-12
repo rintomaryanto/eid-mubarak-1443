@@ -579,8 +579,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 11rem;
 }
 
-.max-w-3xl {
-  max-width: 48rem;
+.max-w-4xl {
+  max-width: 56rem;
 }
 
 .flex-wrap {
@@ -649,12 +649,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-align: center;
 }
 
-.font-almarai {
-  font-family: Almarai;
-}
-
 .font-poppins {
   font-family: Poppins;
+}
+
+.font-almarai {
+  font-family: Almarai;
 }
 
 .text-8xl {
